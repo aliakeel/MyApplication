@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 t.setText("hello , Abo Hasan" + i++);
-                Log.e("tag","hello , Abo Hasan");
+                Log.e("tag","hello , Abo Hasan Akeel");
 //                Intent myIntent = new Intent(CurrentActivity.this, NextActivity.class);
 //                myIntent.putExtra("key", value); //Optional parameters
 //                CurrentActivity.this.startActivity(myIntent);
